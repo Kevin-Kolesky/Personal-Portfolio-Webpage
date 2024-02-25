@@ -39,29 +39,13 @@ main{
     margin: 15px 10px;
 }
 
-#product {
-
- 
+img{
+    border-radius: 4%;
+    box-shadow: #2ede98;
 }
 
-#photo{
-
-}
-
-#RSVP{
-
-}
-
-#tech{
-
-}
-
-#tribute{
-
-}
-
-#survey{
-
+img:hover{
+    transform: scale(1.1); 
 }
 
 /*///////////////////////////////////*/
@@ -130,7 +114,6 @@ main{
 header{
     margin-bottom: 60px;
 }
-
   .wrapper{
     margin: 0;
     padding: 0;
