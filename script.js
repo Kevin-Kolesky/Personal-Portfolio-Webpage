@@ -5,7 +5,13 @@ document.addEventListener('DOMContentLoaded', function() {
       { id: 'photo', color: 'linear-gradient(to left, #3c3c3c, #ff9700)'}, 
       { id: 'RSVP', color: 'linear-gradient(90deg, rgba(2,59,60,1) 0%, rgba(105,208,197,1) 100%)'}, 
       { id: 'tech', color: 'linear-gradient(90deg, rgba(146,208,237,1) 0%, rgba(14,38,73,1) 100%)'}, 
-      { id: 'tribute', color: 'linear-gradient(90deg, rgba(32,49,69,1)  26%, rgba(90,109,130,1)  100%)'}, 
+      { id: 'tribute', color: 'linear-gradient(90deg, rgba(32,49,69,1)  26%, rgba(90,109,130,1)  100%)'},
+      { id: 'palindrome', color: 'linear-gradient(90deg, rgb(3, 194, 207)  26%, rgb(32, 100, 41)  100%)'}, 
+      { id: 'roman', color: 'linear-gradient(90deg, rgb(6, 6, 6)  26%, rgb(163, 9, 9)  100%)'},
+      { id: 'todo', color: 'linear-gradient(90deg, rgb(132, 168, 197)  26%, rgb(32, 52, 71)  100%)'},
+      { id: 'ums', color: 'linear-gradient(90deg, rgb(40, 39, 39)  26%, rgb(136, 30, 235)  100%)'},
+      { id: 'lms', color: 'linear-gradient(90deg, rgb(83, 62, 62)  26%, rgb(36, 59, 110)  100%)'},
+      { id: 'calculator', color: 'linear-gradient(90deg, rgb(185, 97, 97)  26%, rgb(95, 197, 231)  100%)'},
       { id: 'survey', color: 'linear-gradient(90deg, rgba(35,35,126,1) 0%,  rgba(27,27,50,1) 100%)'}  
     ];
   

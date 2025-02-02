@@ -12,7 +12,6 @@ main{
   margin: 15px 15px;  
 }
 
-
 .framesContainer{
     display: flex;
     flex-direction: column;
@@ -48,7 +47,6 @@ img:hover{
     transform: scale(1.1); 
 }
 
-/*///////////////////////////////////*/
 .container{
     padding: 2rem;
     display: none;
@@ -110,6 +108,37 @@ img:hover{
         display: none;
     }
 }
+
+.tag {
+  display: inline-flex; /* Keeps it aligned properly next to other elements */
+  align-items: center;
+  background-color: #f3f4f6; /* Light gray background */
+  color: #374151; /* Dark gray text */
+  font-size: 14px;
+  font-weight: 600;
+  padding: 4px 8px; /* Minimal padding for a tight fit */
+  border-radius: 999px; /* Fully rounded edges */
+  border: 1px solid #d1d5db; /* Subtle border */
+  white-space: nowrap; /* Prevents the tag from breaking onto a new line */
+  
+}
+
+.freeCodeCamp{
+  background-color: #1d3565; /* Light gray background */
+  border: 1px solid #ebf3fb; /* Subtle border */
+  color: #ebf3fb; /* Dark gray text */
+  padding: 2px 8px; /* Minimal padding for a tight fit */
+  font-size: 12px;
+}
+
+.tutor{
+  background-color: #f19d54; /* Light gray background */
+  border: 1px solid #f28806; /* Subtle border */
+  color: #000000; /* Dark gray text */
+  padding: 3px 8px; /* Minimal padding for a tight fit */
+  font-size: 12px;
+}
+
 /*//////////////////////////////////////////////////////////////////////////*/
 header{
     margin-bottom: 60px;
