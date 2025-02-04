@@ -10,8 +10,9 @@ document.addEventListener('DOMContentLoaded', function() {
       { id: 'roman', color: 'linear-gradient(90deg, rgb(6, 6, 6)  26%, rgb(163, 9, 9)  100%)'},
       { id: 'todo', color: 'linear-gradient(90deg, rgb(132, 168, 197)  26%, rgb(32, 52, 71)  100%)'},
       { id: 'ums', color: 'linear-gradient(90deg, rgb(40, 39, 39)  26%, rgb(136, 30, 235)  100%)'},
-      { id: 'lms', color: 'linear-gradient(90deg, rgb(83, 62, 62)  26%, rgb(36, 59, 110)  100%)'},
+      { id: 'lms', color: 'linear-gradient(90deg, rgb(36, 59, 110)  26%, rgb(83, 62, 62)  100%)'},
       { id: 'calculator', color: 'linear-gradient(90deg, rgb(185, 97, 97)  26%, rgb(95, 197, 231)  100%)'},
+      { id: 'weather', color: 'linear-gradient(90deg, rgb(19, 9, 80)  26%, rgb(158, 213, 231)  100%)'},
       { id: 'survey', color: 'linear-gradient(90deg, rgba(35,35,126,1) 0%,  rgba(27,27,50,1) 100%)'}  
     ];
   
